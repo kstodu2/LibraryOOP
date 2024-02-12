@@ -1,6 +1,8 @@
 Simple Library using OOP.
 Allows you to create a library, add books and users.
 Checks to make sure the user cannot rent books that are not avaialable. 
+List books, the user has rented.
+List books that are available and/or rented.
 
 
 
